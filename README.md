@@ -1,2 +1,2 @@
-# handel-import-plugin
-Import externally-defined resources into the Handel lifecycle
+# <%= extensionName %>-handel-extension
+This project contains the code for the <%= extensionName %>-handel-extension
